@@ -1,1 +1,2 @@
 "this is file 2.txt"  
+another local change to 2.txt

@@ -1,0 +1,30 @@
+[33mcommit 1c614add3518f5967add894fa6af0d4fdf63ba6d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Avihulv <avihulevi07@gmail.com>
+Date:   Mon Aug 25 18:31:26 2025 +0300
+
+    Update: changed text in 1.txt
+
+[33mcommit 5ba64f26677881ee3ed64cc271370b9fc437a01c[m
+Merge: f2673c7 1fcb8b5
+Author: Avihulv <avihulevi07@gmail.com>
+Date:   Sun Aug 24 20:06:39 2025 +0300
+
+    Commit 4 with file 4.txt
+
+[33mcommit 1fcb8b544a0b7f80f81cf56c2ec7a9d3e1a435e2[m
+Author: Avihulv <avihulevi07@gmail.com>
+Date:   Sun Aug 24 20:01:13 2025 +0300
+
+    Create 4.txt
+
+[33mcommit f2673c7dd23fabcf730ad97e02e26bf570d1a7c3[m
+Author: Avihulv <avihulevi07@gmail.com>
+Date:   Sun Aug 24 19:32:04 2025 +0300
+
+    commit 3 local
+
+[33mcommit f2d5e903c831b41ab86cccfc4081dc41adc5425c[m
+Author: Avihulv <avihulevi07@gmail.com>
+Date:   Tue Aug 19 20:39:25 2025 +0300
+
+    first commit
